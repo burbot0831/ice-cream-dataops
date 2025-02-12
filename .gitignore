@@ -1,0 +1,5 @@
+build/*
+.env
+ice-cream-dataops/config.test.yaml
+ice-cream-dataops/config.prod.yaml
+.venv
