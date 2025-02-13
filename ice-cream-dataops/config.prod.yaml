@@ -23,7 +23,7 @@ variables:
       data_developer_source_id: 773a7337-9be6-4338-ac62-b51b0affdbd1 # ex. xxxxxxxx-xxxx-xxxx-xxxxxxxxxxxx
       data_pipeline_oee_source_id: 29936438-051b-4aea-8727-275b9a5b09b8 # ex. xxxxxxxx-xxxx-xxxx-xxxxxxxxxxxx
       readwrite_source_id: 43ecd0eb-65c6-4ff0-aece-a168107fa753  # ex. xxxxxxxx-xxxx-xxxx-xxxxxxxxxxxx
-      icapi_extractors_source_id: 834031d6-3536-4828-b77f-b37638ffea6f # ex. xxxxxxxx-xxxx-xxxx-xxxxxxxxxxxx
+      icapi_extractors_source_id: 834031d6-3536-4828-b77f-b37638ffea6f  # ex. xxxxxxxx-xxxx-xxxx-xxxxxxxxxxxx
 
       # Client Ids (App registrations or Service Principals)
       data_pipeline_oee_client_id: ${DATA_PIPELINE_OEE_CLIENT_ID} # replaced by .env
